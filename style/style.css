@@ -1,0 +1,589 @@
+/*reseteo de css*/
+/**{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}*/
+
+
+/*Estilos del main*/
+/*
+h1 {
+  color: red;
+}
+h2 {
+  color: rgb(129, 6, 129);
+}
+
+div {
+  color: deeppink;
+}*/
+
+/*
+
+.ColorPrincipal {
+  color: yellowgreen;
+}
+
+.ColorSecundario {
+  color: violet;
+}
+
+.INICIO {
+  color: brown;
+}
+
+.QUEJAS {
+  color: cyan;
+}
+
+.INFO {
+  color: darkmagenta;
+}
+
+.TABLA1 {
+  color: darksalmon;
+}
+
+.FORMULARIO2 {
+  color: rgb(9, 1, 15);
+}
+
+#formulario1 {
+  color: rgb(2, 68, 90);
+}
+
+#ColorTabla1 {
+  color: rgb(212, 9, 202);
+}
+
+.CLASE1 {
+  color: rgb(236, 71, 236);
+}
+
+.CLASE2 {
+  color: rgb(252, 13, 13);
+}
+
+.CLASE3 {
+  color: royalblue;
+}
+
+.CLASE4 {
+  color: green;
+}
+
+.listaAbreviada {
+  font-style: italic;
+}
+
+
+.inicioDeSesion {
+  font-style: italic;
+  font-size: 25px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.usuario {
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+  font-family: monospace;
+  text-transform: uppercase;
+}
+
+.contrasena {
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+  font-family: monospace;
+  text-transform: uppercase;
+}
+
+.quieneSomos{
+    text-transform: capitalize;
+    color: black;
+}
+
+.textDecoration{
+    text-decoration: none;
+    color: black;
+}
+
+.listaRomano{
+    list-style-type: upper-roman;
+    color: black;
+}
+.comoQueres{
+    color: rgb(41, 41, 41);
+    text-transform: capitalize;
+}
+
+.principal{
+    background-color: rgba(41, 125, 131, 0.658);
+    list-style: none;
+    
+}
+
+li{
+  display: inline-block;
+  width: 15%;
+  position: relative;
+}
+
+li a:hover{
+  background-color: black;
+  color: white;
+}
+
+li a{
+  background-color: white;
+  color: black;
+  text-decoration: none;
+}
+
+ul li ul{
+  position: absolute;
+  display: none;
+  position: absolute;
+
+}
+ul li ul li{
+  display: block;
+  
+}
+
+ul li:hover ul{
+  display: block;
+  background-color: white;;
+
+}
+
+
+.somosPagina{
+    font-family: 'Zen Kurenaido', sans-serif;
+    color: black; 
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+.parteDeQuienes{
+    background-color: rgb(188,185,247);
+}
+
+.fondoIgual{
+    background-color: rgb(188, 188, 248);
+}
+
+.textDecoration a{
+  text-decoration: none;
+  
+ 
+}
+.textDecoration ul a{
+  list-style: none;
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+  width: 13%;
+  background-color:white;
+  color:black;
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  justify-content:space-around ;
+  
+}
+
+.principal{
+  background-color:white;
+}
+
+.ofrecemos{
+  text-align: center;
+  color: black;
+  text-transform: uppercase;
+  background-color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.especialidades{
+  text-align: center;
+  color: black;
+  
+}
+
+
+.inline11{
+  background-image: url("../media//imagenes/fondocomida.jpg");
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  
+}
+
+
+
+
+.imgfooter{
+ width: 10%;
+ 
+}*/
+/*
+.fondoMarisco{
+  clear: left;
+} 
+
+.fondoMarisco p{
+  margin: 0;
+}
+/*
+.columna5 h1{
+  text-align: center;
+  font-size: 40px;
+  background-color:blanchedalmond;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0px;
+
+}
+
+.pecess{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: blanchedalmond;
+  color: black;
+  font-family: cursive;
+
+}
+
+.peces11{
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-size: 20px;
+}
+
+.textDecoration .destacadas{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  padding-bottom: 50px;
+  margin: 0px;
+}
+
+
+
+.mih1{
+ display: flex;
+ justify-content: center;
+ color: black;
+ margin: 0px;
+ background-color: blanchedalmond;
+ margin: 20px;
+ padding: 20px;
+}*/
+/*
+
+.contacto{
+  color: black;
+  width: 30%;
+  background-color: blanchedalmond;
+  
+  }
+
+  .contacto3{
+    color: black;
+    width: 30%;
+    background-color: blanchedalmond;
+  }
+
+  .contacto4{
+    color: black;
+    background-color: blanchedalmond;
+    width: 30%;
+  }
+
+
+  
+  .textDecoration nav  {
+    display: grid;
+    grid-template-rows: 30% 30% 30% 30%;
+    column-gap: 10px;
+    row-gap: 40px;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: 100px;
+  }
+
+  /*
+  
+/*
+.section2{
+  grid-area: section2;
+  background-color: red;
+  justify-self:end
+  ;
+}
+
+.section1  {
+  grid-area: section1;
+  background-color: black;
+  justify-self: start;
+  color: white;
+  
+}
+
+.section1 h2{
+  color:white;
+}
+
+.section2 h2{
+  color:black;
+  
+}*/
+
+/*ESCRITORIO
+@media only screen and (min-width: 768px){
+
+body{
+  background-color: white;
+}
+}
+
+/*TABLET
+@media only screen and (max-width: 767px) and (min-width: 321px ){
+  
+  body{
+    background-color: red;
+  }
+}
+
+/*MOBILE
+
+@media only screen and (max-width: 320px){
+  body{
+    background-color: rgb(212, 9, 202);
+  }
+}
+
+body{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.textDecoration nav{
+  background-image: linear-gradient(to left, rgb(204, 226, 247), rgb(78, 136, 243));
+}
+
+.destacadas li a{
+  background-image: linear-gradient(to left, rgb(204, 226, 247), rgb(78, 136, 243));
+}
+
+.ofrecemos{
+  background-image: linear-gradient(to left, rgb(204, 226, 247), rgb(78, 136, 243));
+  padding: auto;
+}
+
+.especialidades{
+  background-image: linear-gradient(to left, rgb(204, 226, 247), rgb(78, 136, 243));
+}
+
+.miFooter{
+    background-image: url("../media//imagenes/fondocomida.jpg");
+    clear: left;
+    margin: 0px;
+}
+
+
+/*
+.esteEsMiMain .calidad {
+  transform:rotate(30deg);
+  
+  
+}
+.esteEsMiMain .preparacion{
+  margin: auto;
+  margin-top: 20px;
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+}
+.esteEsMiMain .preparacion:hover{
+  transform: scale(2,1.5)
+  
+}
+
+.envios{
+background-color: lightgreen;
+grid-area: envios;
+transition: background-color, 3s;
+}
+
+.envios:hover{
+  background-color: lightpink;
+}
+
+h2{
+  color: black;
+}
+
+
+.especialidades{
+  align-self: center;
+  text-align: center;
+  animation-name: especialidades;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in;
+  animation-duration: 5s;
+}
+
+@keyframes especialidades {
+  0%{font-size: 15px;}
+  30%{font-size: 20px;}
+  50%{font-size: 45px;}
+  80%{font-size: 70px;}
+  100%{font-size: 15px;}
+  
+}
+
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  background-image: linear-gradient(to left, rgb(204, 226, 247), rgb(78, 136, 243));
+  padding: auto;
+  color: black;
+}
+
+.miFooter{
+  background-color: #73e8ff;
+  color: black;
+  text-transform: uppercase;
+}
+
+.textDecoration{
+  background-color: #0277bd;
+  color: black;
+}
+
+.destacadas li a{
+background-color: #0277bd;
+}
+
+.especialidades{
+  background-color: #58a5f0;
+}
+
+h2{
+  color: black;
+}
+h1{
+  color:black;
+  text-align: center;
+  text-transform: uppercase;
+  background-color:#0288d1 ;
+}
+
+/*BOOTSTRAP*/ 
+/*
+.miLetra{
+  font-size: 10px;
+  
+}
+
+.margin{
+  margin-top: 2%;
+  font-size: 10px;
+ 
+}
+
+.letraMasGrande{
+  font-size: 15px;
+}
+
+.footer{
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  color: white;
+}
+
+
+.calidad{
+  background-color: white;
+  color: black;
+}
+
+.preparacion{
+  background-color:white;
+  color: black;
+}
+
+.realizamos  {
+  background-color:white;
+  color: black;
+}
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+body{
+  position: relative;
+  padding-bottom: 6em;
+  min-height: 100vh;
+}
+
+*/
+
+.footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  height: 150px;
+  
+  
+}
+.queOfrecemos{
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+.mapa{
+    text-align: center;
+    width: 1100px;
+    
+}
+
+.ubicacion{
+  text-align: center;
+  
+}
+
+
+
+.iniciosSecundarios{
+  text-align: center;
+}
+
+.mandanos{
+  text-align: center;
+}
